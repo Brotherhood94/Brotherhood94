@@ -10,7 +10,6 @@
   <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Brotherhood94.Brotherhood94)
 
 <br />
 
@@ -26,6 +25,9 @@ Medium:
 
 <!--
 **Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Brotherhood94.Brotherhood94)
 
 Here are some ideas to get you started:
 
