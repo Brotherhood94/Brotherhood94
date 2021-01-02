@@ -12,7 +12,7 @@
 
 <br />
 
-  ![super](https://github.com/Daisyliu6/Daisyliu6/blob/master/super.gif)
+  <img align="right" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/master/super.gif?raw=true" width="500" height="320" />
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
