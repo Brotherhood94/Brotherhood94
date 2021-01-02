@@ -12,8 +12,7 @@
 
 <br />
 
-  ![random](https://giphy.com/embed/1jbafNfaesEP4q4UeH)
-  ![hippo](https://media3.giphy.com/media/1jbafNfaesEP4q4UeH/giphy.gif)
+  ![super](https://github.com/Daisyliu6/Daisyliu6/blob/master/super.gif)
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
