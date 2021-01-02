@@ -23,13 +23,14 @@
 
  I'm Alessandro, a PhD student in Computer Science at University of Pisa! <br/>
 
-## 🔬 Focusing on Quantum Computing 🔬
+## 🔬 Focusing on Quantum Computing 🔬  
+<img align="left" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
+
 In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
 "Quantum Computing" <br/>
 
 From that day, my curiosity about this field has grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
 
-  <img align="left" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
 
 <br/>
 
