@@ -25,10 +25,18 @@ From that day, my curiosity about this field has grown every day and today, I'm 
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
-  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="340" height="300" />
+  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="100" />
+
+<br/>
+
+In 2019, he and his friends launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topic of technology and innovation.
+
+  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
+
 
 <!--
 **Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Brotherhood94.Brotherhood94)
