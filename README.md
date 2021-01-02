@@ -6,7 +6,7 @@
   - LinkedIn: [aleberti](linkedin.com/in/aleberti)
   - Twitter: [attibro](twitter.com/Attibro)
 
-Medium Account:
+Medium:
   - [Brotherhood94](medium.com/@Brotherhood94)
 
 <!--
