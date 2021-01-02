@@ -12,6 +12,11 @@
 
 <br />
 
+Hi! I'm Alessandro, a PhD student in Computer Science at University of Pisa!
+In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last page, I read these two words:
+"Quantum Computing" that I had never read combined.
+From that day, my curiosity about this field have grown every day. 
+
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
