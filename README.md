@@ -1,5 +1,7 @@
 ## Hi Guyz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<br/>
+
  <a href="https://medium.com/@Brotherhood94">
   <img alt="Alessandro Berti's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
