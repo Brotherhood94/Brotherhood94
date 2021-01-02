@@ -11,6 +11,8 @@
 </a>
 
 <br />
+
+  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
   <img align="right" alt="GIF" src="https://giphy.com/embed/1jbafNfaesEP4q4UeH" width="500" height="320" />
 
 
