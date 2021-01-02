@@ -2,9 +2,6 @@
 
 <br/>
 
- I'm Alessandro, a PhD student in Computer Science at University of Pisa! <br/>
-
-
  <a href="https://medium.com/@Brotherhood94">
   <img alt="Alessandro Berti's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
@@ -14,8 +11,10 @@
 <a href="https://www.linkedin.com/in/aleberti/">
   <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br/>
 
+ I'm Alessandro, a PhD student in Computer Science at University of Pisa! <br/>
 
 ## 🔬 Focusing on Quantum Computing 🔬
 In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
