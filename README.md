@@ -29,7 +29,10 @@ From that day, my curiosity about this field has grown every day and today, I'm 
 
 <br/>
 
-In 2019, he and his friends launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topic of technology and innovation.
+## 🔭 Podcaster @PointerPodcast.it 🔭
+
+
+In 2019, me, Luca, and Eugenio, launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topic of technology and innovation.
 
   <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
 
