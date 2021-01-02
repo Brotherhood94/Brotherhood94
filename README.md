@@ -1,5 +1,11 @@
 ### Hi Guyz! 👋
 
+📫 How to reach me:
+  - LinkedIn: linkedin.com/in/aleberti
+  - Twitter: twitter.com/Attibro
+
+Medium Account:
+  - medium.com/@Brotherhood94
 
 <!--
 **Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
