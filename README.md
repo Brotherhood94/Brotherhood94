@@ -2,7 +2,7 @@
 
 📫 How to reach me:
   - LinkedIn: [aleberti](linkedin.com/in/aleberti)
-  - Twitter: [attirbro](twitter.com/Attibro)
+  - Twitter: [attibro](twitter.com/Attibro)
 
 Medium Account:
   - [Brotherhood94](medium.com/@Brotherhood94)
