@@ -28,7 +28,7 @@
 <br/>
 
 In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
-"Quantum Computing" <br/>
+"Quantum Computing". <br/>
 
 From that day, my curiosity about this field has grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
 
