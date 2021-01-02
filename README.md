@@ -13,7 +13,7 @@
 <br />
 
   ![random](https://giphy.com/embed/1jbafNfaesEP4q4UeH)
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+  ![hippo](https://media3.giphy.com/media/1jbafNfaesEP4q4UeH/giphy.gif)
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
