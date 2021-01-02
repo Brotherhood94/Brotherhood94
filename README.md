@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/aleberti/">
-  <img align="center" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://medium.com/@Brotherhood94">
@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://twitter.com/Attibro">
-  <img align="center" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
