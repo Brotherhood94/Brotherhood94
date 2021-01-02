@@ -12,7 +12,7 @@
 
 <br />
 
-  <img align="right" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="500" height="320" />
+  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="300" height="300" />
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
