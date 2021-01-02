@@ -15,7 +15,7 @@
   
 ## 🔭 Focusing on Quantum Computing 🔭
 
-  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="300" height="300" />
+  <img align="center" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="340" height="300" />
 
 <!--
 **Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
