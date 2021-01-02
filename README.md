@@ -10,11 +10,13 @@
   <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/>
 
-Hi! I'm Alessandro, a PhD student in Computer Science at University of Pisa! <\br>
+Hi! I'm Alessandro, a PhD student in Computer Science at University of Pisa! <br/>
+
 In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
-"Quantum Computing" <\br>
+"Quantum Computing" <br/>
+
 From that day, my curiosity about this field have grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
 
   
