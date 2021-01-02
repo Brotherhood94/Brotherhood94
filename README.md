@@ -11,7 +11,8 @@
 </a>
 
 <br />
-<iframe src="https://giphy.com/embed/1jbafNfaesEP4q4UeH" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1jbafNfaesEP4q4UeH">via GIPHY</a></p>
+
+  <img href="https://giphy.com/gifs/1jbafNfaesEP4q4UeH" align="right" alt="GIF" src="https://giphy.com/embed/1jbafNfaesEP4q4UeH" width="480" height="360" frameBorder="0" class="giphy-embed"/>
 
 ## 🔭 Focusing on Quantum Computing 🔭
 
