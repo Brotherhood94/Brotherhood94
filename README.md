@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/aleberti/">
-  <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://medium.com/@Brotherhood94">
@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://twitter.com/Attibro">
-  <img align="left" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
@@ -29,14 +29,14 @@ In 2012, not yet started university, I stumbled by chance in a divulgative book 
 
 From that day, my curiosity about this field has grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
 
-  <img align="right" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
+  <img align="left" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
 
 <br/>
 
 ## 🎙️ Podcaster @PointerPodcast.it 🎙️
 In 2019, me, Luca, and Eugenio, launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topic of technology and innovation.
 
-  <img align="right" alt="PointerPodcast" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
+  <img align="left" alt="PointerPodcast" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
 
 
 <!--
