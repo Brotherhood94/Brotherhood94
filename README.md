@@ -12,10 +12,10 @@
 
 <br />
 
-Hi! I'm Alessandro, a PhD student in Computer Science at University of Pisa!
-In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last page, I read these two words:
-"Quantum Computing" that I had never read combined.
-From that day, my curiosity about this field have grown every day. 
+Hi! I'm Alessandro, a PhD student in Computer Science at University of Pisa! <\br>
+In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
+"Quantum Computing" <\br>
+From that day, my curiosity about this field have grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
 
   
 ## 🔭 Focusing on Quantum Computing 🔭
