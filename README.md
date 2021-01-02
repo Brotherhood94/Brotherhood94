@@ -25,6 +25,7 @@
 
 ## 🔬 Focusing on Quantum Computing 🔬  
 <img align="left" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
+<br/>
 
 In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
 "Quantum Computing" <br/>
@@ -36,8 +37,9 @@ From that day, my curiosity about this field has grown every day and today, I'm 
 
 ## 🎙️ Podcaster @PointerPodcast.it 🎙️
 <img align="left" alt="PointerPodcast" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
+<br/>
 
-In 2019, me, Luca, and Eugenio, launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topic of technology and innovation.
+In 2019, me, Luca, and Eugenio, launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topics of technology and innovation.
 
 
 
