@@ -1,5 +1,20 @@
 ### Hi Guyz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.medium.com/@Brotherhood94">
+  <img align="left" alt="Alessandro Berti's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+</a>
+<a href="https://twitter.com/Attibro">
+  <img align="left" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aleberti/">
+  <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Brotherhood94.Brotherhood94)
+
+<br />
+
+
 ## 🔭 Focusing on Quantum Computing 🔭
 
 📫 How to reach me:
