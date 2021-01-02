@@ -1,5 +1,7 @@
 ### Hi Guyz! 👋
 
+# 🔭 Focusing on Quantum Computing 🔭
+
 📫 How to reach me:
   - LinkedIn: [aleberti](linkedin.com/in/aleberti)
   - Twitter: [attibro](twitter.com/Attibro)
