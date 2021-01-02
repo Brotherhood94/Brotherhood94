@@ -10,18 +10,10 @@
   <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
 <br />
 
 
 ## 🔭 Focusing on Quantum Computing 🔭
-
-📫 How to reach me:
-  - LinkedIn: [aleberti](linkedin.com/in/aleberti)
-  - Twitter: [attibro](twitter.com/Attibro)
-
-Medium:
-  - [Brotherhood94](medium.com/@Brotherhood94)
 
 <!--
 **Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
