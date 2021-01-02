@@ -35,7 +35,7 @@ From that day, my curiosity about this field has grown every day and today, I'm 
 
 <br/>
 
-## 🎙️ Podcaster @PointerPodcast.it 🎙️
+## 🎙️ Podcaster @PointerPodcast 🎙️
 <img align="left" alt="PointerPodcast" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
 <br/>
 
