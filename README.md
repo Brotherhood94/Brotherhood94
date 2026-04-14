@@ -1,63 +1,46 @@
 ## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I’m **Alessandro Berti**, a Postdoctoral Researcher in **Quantum Algorithms** at the University of Pisa. I hold a PhD in Computer Science (2024) and I work on quantum machine learning, quantum state preparation, and variational quantum circuits. I’m also the inventor of a [patented quantum state preparation technique](https://www.aleberti.com).
+
 <br/>
 
-
-
-
+<a href="https://www.aleberti.com">
+  <img alt="Website" src="https://img.shields.io/badge/website-aleberti.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" height=25>
+</a>
 <a href="https://www.linkedin.com/in/aleberti/">
-  <img align="left" alt="Alessandro Berti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
-
 <a href="https://medium.com/@Brotherhood94">
-  <img alt="Alessandro Berti's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-
-<a href="https://twitter.com/Attibro">
-  <img align="left" alt="Alessandro Berti's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 
 <br/>
-<br/>
 
+## 🔬 Quantum Computing Research
 
- I'm Alessandro, a PhD student in Computer Science at University of Pisa! <br/>
-
-## 🔬 Focusing on Quantum Computing 🔬  
 <img align="left" alt="From Giphy" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/super.gif" width="150" height="130" />
 <br/>
 
-In 2012, not yet started university, I stumbled by chance in a divulgative book about computer science and, in the very last pages, I read about these two words:
-"Quantum Computing". <br/>
-
-From that day, my curiosity about this field has grown every day and today, I'm so happy that this fascinating field is the focus of my PhD.
-
+In 2012, before even starting university, I stumbled upon a divulgative book about computer science and, in the very last pages, I read two words: "Quantum Computing". From that day, my curiosity about this field has never stopped growing — through a Bachelor’s, a Master’s (110/110 cum laude), a PhD, a visiting period at **Fermilab** (SQMS Center), and now a postdoc. Today I focus on quantum algorithms, quantum AI, and bringing quantum subroutines closer to practical applications.
 
 <br/>
 
-## 🎙️ Podcaster @PointerPodcast 🎙️
+## 🎙️ Podcaster & Community Builder
+
 <img align="left" alt="PointerPodcast" src="https://github.com/Brotherhood94/Brotherhood94/blob/main/pointerpodcast.png" width="150" height="150" />
 <br/>
 
-In 2019, me, Luca, and Eugenio, launched a podcast, the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), a italian podcast which focuses on the topics of technology and innovation.
+In 2019, together with Luca and Eugenio, I launched the [PointerPodcast](https://open.spotify.com/show/3XmDzcZv4rCIx1VpWrbrkh), an Italian podcast about technology and innovation — now with **230+ episodes**. I also co-founded [Superhero Valley](https://github.com/superheroesvalley), a community of **2,300+ members** focused on technical interview preparation.
 
+<br/>
+<br/>
 
+## 🧰 Highlights
 
-<!--
-**Brotherhood94/Brotherhood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=Brotherhood94.Brotherhood94)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **PhD in Computer Science** — University of Pisa (2024, Excellent)
+- 🔬 **12 peer-reviewed publications** in quantum computing and quantum ML
+- 📜 **Patent** on quantum state preparation (IT202200024873A1)
+- 🧑‍💻 **8 open-source tools** for quantum computing
+- 🏅 **IBM Qiskit Advocate** & Certified Associate Developer
+- 🎤 **11 international conference presentations**
+- 🏆 **$36k Rigetti Quantum Cloud Services Credits** (2024)
